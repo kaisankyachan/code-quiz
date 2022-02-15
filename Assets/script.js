@@ -87,4 +87,3 @@ function startQuiz(){
     quizElement.style.display = "initial"
     display(question1);
 }
-
